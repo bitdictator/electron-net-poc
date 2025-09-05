@@ -1,6 +1,6 @@
 # electron-net-poc
 
-An Electron application with React and TypeScript
+A proof-of-concept demonstrating communication between an Electron app and a locally running .NET backend using StreamJsonRpc, built with Vite, React, TypeScript, and shadcn/ui.
 
 ## Recommended IDE Setup
 
